@@ -5,6 +5,13 @@
 	color: #43484d;
 	margin-top: 30px;
 }
+
+/*text*/
+
+.c-talent-landing__form h3, p {
+text-align: center;
+}
+
 /*divider*/
 .c-talent-landing__oauth-divider::after {
 	right: -20px;
